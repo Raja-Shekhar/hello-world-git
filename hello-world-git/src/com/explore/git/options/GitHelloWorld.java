@@ -8,7 +8,9 @@ public class GitHelloWorld {
 		System.out.println("Committing code from user1");
 
 		System.out.println("Committing code from user2");
-		
+
+		System.out.println("Committing code to temp master");
+
 	}
 
 }
