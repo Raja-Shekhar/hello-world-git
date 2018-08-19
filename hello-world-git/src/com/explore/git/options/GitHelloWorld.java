@@ -11,6 +11,8 @@ public class GitHelloWorld {
 
 		System.out.println("Committing code to temp master");
 
+		System.out.println("Merge changes from other branch to temp_master");
+
 	}
 
 }
