@@ -13,6 +13,10 @@ public class GitHelloWorld {
 
 		System.out.println("Merge changes from other branch to temp_master");
 
+		System.out.println("Committing code to a branch with temp master as parent");
+
+		System.out.println("2nd - Committing code to a branch with temp master as parent");
+
 	}
 
 }
