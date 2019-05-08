@@ -8,9 +8,16 @@ public class GitHelloWorld {
 		System.out.println("Committing code from user1");
 
 		System.out.println("Committing code from user2");
-		
+
 		System.out.println("Test branch switching");
 		
+		System.out.println("Committing code to temp master");
+
+		System.out.println("Merge changes from other branch to temp_master");
+
+		System.out.println("Committing code to a branch with temp master as parent");
+
+		System.out.println("2nd - Committing code to a branch with temp master as parent");
 	}
 
 }
