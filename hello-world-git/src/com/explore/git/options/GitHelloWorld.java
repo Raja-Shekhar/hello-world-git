@@ -9,6 +9,8 @@ public class GitHelloWorld {
 
 		System.out.println("Committing code from user2");
 		
+		System.out.println("Test branch switching");
+		
 	}
 
 }
